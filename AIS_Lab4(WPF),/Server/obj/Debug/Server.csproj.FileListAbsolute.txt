@@ -1,0 +1,14 @@
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\Server.exe.config
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\Server.exe
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\Server.pdb
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\obj\Debug\Server.exe
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\obj\Debug\Server.pdb
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\EntityFramework.dll
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\EntityFramework.xml
+c:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\Car.mdf
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\bin\Debug\Car_log.ldf
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\obj\Debug\Server.Migrations.DataMigration.resources
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_Lab4\Server\obj\Debug\Server.csproj.GenerateResource.Cache
