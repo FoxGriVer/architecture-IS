@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programClient\bin\Debug\programClient.exe.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programClient\bin\Debug\programClient.exe
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programClient\bin\Debug\programClient.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programClient\obj\Debug\programClient.exe
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programClient\obj\Debug\programClient.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programClient\obj\Debug\programClient.csprojResolveAssemblyReference.cache

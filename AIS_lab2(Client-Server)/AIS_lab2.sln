@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIS_lab2", "AIS_lab2\AIS_lab2.csproj", "{29A3CD69-1463-404C-828B-67D01518384B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programClient", "programClient\programClient.csproj", "{744F4A5F-F8F7-462D-A9ED-2085202A3430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programServer", "programServer\programServer.csproj", "{01FB2A64-6502-4CD5-BF73-B21960206D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A3CD69-1463-404C-828B-67D01518384B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A3CD69-1463-404C-828B-67D01518384B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A3CD69-1463-404C-828B-67D01518384B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A3CD69-1463-404C-828B-67D01518384B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744F4A5F-F8F7-462D-A9ED-2085202A3430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744F4A5F-F8F7-462D-A9ED-2085202A3430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744F4A5F-F8F7-462D-A9ED-2085202A3430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744F4A5F-F8F7-462D-A9ED-2085202A3430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FB2A64-6502-4CD5-BF73-B21960206D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FB2A64-6502-4CD5-BF73-B21960206D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FB2A64-6502-4CD5-BF73-B21960206D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FB2A64-6502-4CD5-BF73-B21960206D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

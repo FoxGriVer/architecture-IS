@@ -1,0 +1,9 @@
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\bin\Debug\programServer.exe.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\bin\Debug\programServer.exe
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\bin\Debug\programServer.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\obj\Debug\programServer.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\obj\Debug\programServer.exe
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\obj\Debug\programServer.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\bin\Debug\NLog.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\bin\Debug\NLog.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\AIS_lab2\programServer\bin\Debug\NLog.xml
